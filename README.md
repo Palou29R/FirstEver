@@ -1,2 +1,2 @@
 # FirstEver
-trying out my first every repository
+trying out my first ever repository
